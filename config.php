@@ -1,0 +1,1 @@
+<?php $host = mysqli_connect('localhost','root',null,'db_pbo_tugas_3_toko') ?>
